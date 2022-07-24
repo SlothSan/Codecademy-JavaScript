@@ -7,7 +7,8 @@ let misspelledWord = "beautifull";
 let badWord = "freaking";
 let count = 0;
 
-storyWords.forEach((word) => {
+storyWords.forEach((word) => 
+{
   count++;
 });
 
